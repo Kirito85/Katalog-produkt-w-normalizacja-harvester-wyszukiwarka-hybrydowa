@@ -1,0 +1,6 @@
+SKU NO-10064: nazwa w snapshocie producenta ('Mix PCR 2x Universal') różni się od nazwy w katalogu ('Mix do PCR 2x') — dopasowano mimo to PO SKU, nazwa w katalogu pozostaje wiodąca (nazwa z CSV traktowana jako źródło prawdy dla identyfikacji, opis/specyfikacja z producenta to wzbogacenie).
+SKU NO-10246: nazwa w snapshocie producenta ('Czytnik płytek ELISA') różni się od nazwy w katalogu ('Czytnik plytek ELISA') — dopasowano mimo to PO SKU, nazwa w katalogu pozostaje wiodąca (nazwa z CSV traktowana jako źródło prawdy dla identyfikacji, opis/specyfikacja z producenta to wzbogacenie).
+SKU ze snapshotu 'NO-103l6' potraktowany jako literówka -> dopasowano do 'NO-10316' (fuzzy(edit_distance<=1)).
+SKU NO-10500: karta producenta bez pary w CSV -> dodano jako nową pozycję (source=harvester), pola z CSV pozostają puste.
+SKU NO-99999: karta producenta bez pary w CSV -> dodano jako nową pozycję (source=harvester), pola z CSV pozostają puste.
+34 pozycji NovaGen Labs w katalogu nie ma odpowiednika w snapshocie (snapshot jest z założenia niepełny) -> pozostają bez opisu, to nie błąd.

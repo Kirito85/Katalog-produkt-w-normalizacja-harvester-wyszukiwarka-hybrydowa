@@ -1,0 +1,14 @@
+SKU CH-10160: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU CH-10021: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU CH-10175: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU ME-10297: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU PO-10314: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU PO-10014: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU ME-10180: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU PO-10088: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU BI-10099: 2 identyczne wiersze -> scalono w 1 (exact duplicate).
+SKU PO-10093A: wygląda na literówkę/powtórny wpis SKU PO-10093 (identyczna nazwa/producent/opakowanie/cena, różnica tylko w sufiksie numeru katalogowego) -> odrzucono, zachowano PO-10093.
+SKU CH-10248A: wygląda na literówkę/powtórny wpis SKU CH-10248 (identyczna nazwa/producent/opakowanie/cena, różnica tylko w sufiksie numeru katalogowego) -> odrzucono, zachowano CH-10248.
+SKU BI-10220-1: wygląda na literówkę/powtórny wpis SKU BI-10220 (identyczna nazwa/producent/opakowanie/cena, różnica tylko w sufiksie numeru katalogowego) -> odrzucono, zachowano BI-10220.
+SKU BI-10282-1: wygląda na literówkę/powtórny wpis SKU BI-10282 (identyczna nazwa/producent/opakowanie/cena, różnica tylko w sufiksie numeru katalogowego) -> odrzucono, zachowano BI-10282.
+Uzupełniono kategorię (na podstawie innych wierszy o tej samej nazwie) dla 44 pozycji bez kategorii w źródle.
